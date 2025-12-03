@@ -2,8 +2,13 @@ package entornos;
 
 
 public class pruebaversiones {
+//HEAD
 
  //comentario local
+
+//comentario en remoto
+
+//bd5f1becdd84c4603faae52816f8a9e73204b443
     public static double celsiusAFahrenheit(double celsius) {
         return celsius * 9.0 / 5.0 + 32.0;
     }
